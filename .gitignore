@@ -424,3 +424,5 @@ MigrationBackup/
 # Temporary auto-generated Android Assets
 /Reto/Unity/TrafficSim/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /Reto/Unity/TrafficSim/[Aa]ssets/[Ss]treamingAssets/aa/*
+Reto/Unity/TrafficSim/.gitattributes
+Reto/Unity/TrafficSim/.vsconfig
