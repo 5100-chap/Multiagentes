@@ -89,16 +89,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 569683081087099838}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c1ac252ad06c2e34a914cc24c8016b0a, type: 3}
+  m_Script: {fileID: 11500000, guid: 7bbb962da0875034094b47532c2b37b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  carPrefabs:
-  - {fileID: 1022944502496512919, guid: dcd528f3c0b2bf042babb9d110962ab7, type: 3}
-  - {fileID: 2111139849357107323, guid: e6633464e12a6e04dbdb79960f6de693, type: 3}
-  - {fileID: 3224105099788658157, guid: 25c83d295f789394da1342229c25d951, type: 3}
-  - {fileID: 1101577590284328575, guid: 5d2ce4f2e805b5c4092a09a0930cf37d, type: 3}
-  - {fileID: 7954715419065063505, guid: 10f4671cf44100d409a99458809783f8, type: 3}
-  - {fileID: 771982215564958993, guid: 855cd82b21977fe458e741a8f5352a56, type: 3}
+  carPrefabs: []
 --- !u!114 &-7368483073046397102
 MonoBehaviour:
   m_ObjectHideFlags: 0
